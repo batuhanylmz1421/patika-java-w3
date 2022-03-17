@@ -1,4 +1,4 @@
 # patika-java-w3
-Java Patika <br\> 
+Java Patika <br/> 
 Week 3 - Homework <br/>
 Batuhan YILMAZ
